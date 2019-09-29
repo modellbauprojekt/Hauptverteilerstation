@@ -1,7 +1,9 @@
 ## Die Verteiler und Harfe in der Hauptverteilerstation und wie ein Zug beladen wird.
 Die Hauptverteilerstation besteht aus zwei Teilen:
+
 1. Harfe
 2. Verteiler
+
 In der Harfe werden die Züge nach Farbe sortiert, es muss immer genug Platz für alle Züge einer Farbe auf einer Schiene
 in der Harfe sein.
 Vor der Harfe steht ein Stopper, der Stopper kann die Farbe eines Zuges erkennen und ein IR Signal mit einem
